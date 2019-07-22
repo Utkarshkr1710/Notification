@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77199423297",
+    "firebase_url": "https://seventh-9dd2f.firebaseio.com",
+    "project_id": "seventh-9dd2f",
+    "storage_bucket": "seventh-9dd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77199423297:android:b40303728939b671",
+        "android_client_info": {
+          "package_name": "com.seventh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77199423297-d50kkd395t4iiuqca70pdd1ln5mnnsq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JsNZ7BdUS6JabpPSFOrb7gnYk1u9678"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77199423297-d50kkd395t4iiuqca70pdd1ln5mnnsq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
